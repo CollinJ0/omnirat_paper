@@ -12,3 +12,6 @@ The raw data (fasta files) can be found [**here**](https://www.ncbi.nlm.nih.gov/
 
 The abstar processed data (Json files) can be found [**here**](https://www.google.com).  
 The abstar processed data (CSV files) can be found [**here**](https://www.google.com).
+
+## Contact
+Questions and comments can be addressed to Collin Joyce at [**cjoyce@scripps.edu**](mailto:cjoyce@scripps.edu).
