@@ -1,6 +1,6 @@
 # OmniRat Paper
 
-This repository contains code and data associated with [**Joyce et al. (2020)**](www.nature.com/articles/s41598-020-57764-7). The code was used to compare the antibody repertoires of a humanized rodent with humans.
+This repository contains code and data associated with [**Joyce et al. (2020)**](https://www.nature.com/articles/s41598-020-57764-7). The code was used to compare the antibody repertoires of a humanized rodent with humans.
 
 Contents of this repository:
 1. Links to raw data.
