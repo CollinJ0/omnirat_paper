@@ -10,5 +10,5 @@ Contents of this repository:
 ## Data
 The raw data (fasta files) can be found [**here**](https://www.ncbi.nlm.nih.gov/sra/PRJNA592154).
 
-The abstar processed data (Json files) can be found [**here**](https://www.google.com).
+The abstar processed data (Json files) can be found [**here**](https://www.google.com).  
 The abstar processed data (CSV files) can be found [**here**](https://www.google.com).
